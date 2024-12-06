@@ -23,4 +23,3 @@ plt.legend()
 
 plt.show()
 
-#;;;;lkkkkkkk
