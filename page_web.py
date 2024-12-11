@@ -1,4 +1,4 @@
-graphe= "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/logarithmic_spiral.png"
+graphe= "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/debit_riviere/debit_riviere.py"
 
 html = f"""<h1>Graphe debit riviere</h1>
         <p><img src="{graphe}" alt="" /></p>"""
