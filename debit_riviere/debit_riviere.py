@@ -20,6 +20,6 @@ plt.title('Évolution de la conductivité par rapport au temps')
 
 
 plt.legend()
-
+output_path= '/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/debit_riviere/graphique_concentration.png'
+plt.savefig(output_path)
 plt.show()
-
