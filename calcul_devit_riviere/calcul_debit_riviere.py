@@ -36,7 +36,7 @@ def creer_page_html(graphe, chemin_html):
 
 if __name__ == "__main__":
     #Chemins des fichiers
-    fichier_excel = "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/docs/conductivite_amont_20211012.xls"
+    fichier_excel = "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/data/conductivite_amont_20211012.xls"
     output_graphique = "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/data/graphique_concentration.png"
     chemin_html = "html/index.html"
 
