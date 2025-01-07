@@ -35,16 +35,6 @@ def creer_page_html(graphe, chemin_html):
         fichier.write(html)
 
 
-
-
-
-def tracer_graphique(fichier_excel, colonne_temps, colonne_conductivite, output_graphique): 
-    masse= 500
-    concentration_initiale= 0.2
-    concentration_moyenne= 0.3
-    temps= 3600
-    debit= (masse/(concentation_moyenne-concentration_initiale))*temps
-    print(f"le débit de la rivière est de {débit} l/s")
 if __name__ == "__main__":
 #Chemins des fichiers
     fichier_excel = "/home/etudiant/SAE_105_BILLON_DIALLO_MBOUP/data/conductivite_amont_20211012.xls"
